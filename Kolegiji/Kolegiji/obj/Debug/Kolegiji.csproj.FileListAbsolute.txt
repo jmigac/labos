@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\bin\Debug\Kolegiji.exe.config
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\bin\Debug\Kolegiji.exe
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\bin\Debug\Kolegiji.pdb
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.Form1.resources
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.Properties.Resources.resources
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.exe
+C:\Users\foi.LABOS\Desktop\Labos4_jmigac\Kolegiji\Kolegiji\obj\Debug\Kolegiji.pdb
